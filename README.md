@@ -3,7 +3,7 @@
 
 ![preview](./.github/preview.png)
 
->>>>>>[Clique aqui para acessar](https://marnelly.github.io/NLW/) 🔗
+>[Clique aqui para acessar](https://marnelly.github.io/NLW/) 🔗
 
 
 
